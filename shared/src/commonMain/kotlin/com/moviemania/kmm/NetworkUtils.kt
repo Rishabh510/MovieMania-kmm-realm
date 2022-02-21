@@ -1,4 +1,4 @@
-package com.parismeow.kmm
+package com.moviemania.kmm
 
 import io.github.aakira.napier.Napier
 import io.ktor.client.*

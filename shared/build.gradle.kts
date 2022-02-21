@@ -20,7 +20,7 @@ kotlin {
 
     sourceSets {
         all {
-            languageSettings.optIn("com.parismeow.kmm.OptInAnnotation")
+            languageSettings.optIn("com.moviemania.kmm.OptInAnnotation")
         }
 
         val commonMain by getting {

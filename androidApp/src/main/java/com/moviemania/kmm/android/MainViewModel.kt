@@ -1,12 +1,12 @@
-package com.parismeow.kmm.android
+package com.moviemania.kmm.android
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.parismeow.kmm.MovieInfo
-import com.parismeow.kmm.repo.MovieRepo
-import com.parismeow.kmm.usecase.MoviesUsecase
+import com.moviemania.kmm.MovieInfo
+import com.moviemania.kmm.repo.MovieRepo
+import com.moviemania.kmm.usecase.MoviesUsecase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

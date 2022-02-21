@@ -1,8 +1,8 @@
-package com.parismeow.kmm.repo
+package com.moviemania.kmm.repo
 
-import com.parismeow.kmm.MovieResponse
-import com.parismeow.kmm.database.RealmDatabase
-import com.parismeow.kmm.toRealmMovieResponse
+import com.moviemania.kmm.MovieResponse
+import com.moviemania.kmm.database.RealmDatabase
+import com.moviemania.kmm.toRealmMovieResponse
 
 class MovieRepo {
 

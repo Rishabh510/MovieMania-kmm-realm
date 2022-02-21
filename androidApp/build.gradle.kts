@@ -7,7 +7,7 @@ val viewModelVersion = "2.4.1"
 android {
     compileSdk = 31
     defaultConfig {
-        applicationId = "com.parismeow.kmm.android"
+        applicationId = "com.moviemania.kmm.android"
         minSdk = 29
         targetSdk = 31
         versionCode = 1

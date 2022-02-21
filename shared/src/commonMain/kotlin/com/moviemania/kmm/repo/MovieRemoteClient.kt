@@ -1,7 +1,7 @@
-package com.parismeow.kmm.repo
+package com.moviemania.kmm.repo
 
-import com.parismeow.kmm.MovieResponse
-import com.parismeow.kmm.httpClient
+import com.moviemania.kmm.MovieResponse
+import com.moviemania.kmm.httpClient
 import io.ktor.client.request.*
 
 const val requestUrl =

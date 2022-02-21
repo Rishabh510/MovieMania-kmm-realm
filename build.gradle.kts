@@ -23,5 +23,5 @@ tasks.register("clean", Delete::class) {
 }
 
 tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile>().configureEach {
-    kotlinOptions.freeCompilerArgs += "-opt-in=com.parismeow.kmm.android.OptInAnnotation"
+    kotlinOptions.freeCompilerArgs += "-opt-in=com.moviemania.kmm.android.OptInAnnotation"
 }

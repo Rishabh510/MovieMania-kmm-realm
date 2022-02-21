@@ -1,4 +1,4 @@
-package com.parismeow.kmm.android
+package com.moviemania.kmm.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -19,7 +19,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import coil.annotation.ExperimentalCoilApi
 import coil.compose.rememberImagePainter
-import com.parismeow.kmm.MovieInfo
+import com.moviemania.kmm.MovieInfo
 
 class MainActivity : AppCompatActivity() {
 

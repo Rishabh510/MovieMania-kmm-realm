@@ -1,7 +1,7 @@
-package com.parismeow.kmm.database
+package com.moviemania.kmm.database
 
-import com.parismeow.kmm.MovieInfoRealm
-import com.parismeow.kmm.MovieResponseRealm
+import com.moviemania.kmm.MovieInfoRealm
+import com.moviemania.kmm.MovieResponseRealm
 import io.realm.Realm
 import io.realm.RealmConfiguration
 import io.realm.query

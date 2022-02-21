@@ -1,4 +1,4 @@
-package com.parismeow.kmm
+package com.moviemania.kmm
 
 import io.realm.RealmList
 import io.realm.RealmObject
